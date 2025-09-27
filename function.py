@@ -21,3 +21,6 @@ def Max(a,b,c):
     return result
 result =max(21,133,54)
 print(result)
+
+print("bhai mehnant karta chal ja ek din tu kahega i didt it")
+print("Thank you")
